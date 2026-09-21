@@ -1,1 +1,6 @@
-PLACEHOLDER_GITIGNORE
+build/
+*.o
+*.out
+.cache/
+CMakeFiles/
+CMakeCache.txt
